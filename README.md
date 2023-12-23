@@ -1,4 +1,4 @@
-### Hi🙋‍♂️my name is Hasdi Ahmadi Zamani
+### Hi🙋‍♂️my name is Hadi Ahmadi Zamani
 ---
  ### About me 
 - 👨‍🎓I graduated from Arak University with a bachelor's degree in metallurgical engineering
