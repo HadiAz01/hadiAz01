@@ -18,7 +18,7 @@
 ---
 ### ⚡Github Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) &nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadiaz01&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) &nbsp;
 [![HadiAz's GitHub stats](https://github-readme-stats.vercel.app/api?username=HadiAz01&theme=synthwave)](https://github.com/HadiAz01/github-readme-stats) &nbsp;
 
 
